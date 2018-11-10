@@ -1,0 +1,5 @@
+2018-11-10 13:47:13 [main] DEBUG com.leonvanbokhorst.logdemo.LogDemo - Message 0: Log baby, yeah!
+2018-11-10 13:47:13 [main] DEBUG com.leonvanbokhorst.logdemo.LogDemo - Message 0: We've got a logger.
+2018-11-10 13:47:13 [main] DEBUG com.leonvanbokhorst.logdemo.LogDemo - Message 1: We've got another logger.
+2018-11-10 13:47:13 [main] DEBUG com.leonvanbokhorst.logdemo.LogDemo - Message 2: We've got a couple of loggers.
+2018-11-10 13:47:13 [main] ERROR com.leonvanbokhorst.logdemo.LogDemo - Message 0: Bam!

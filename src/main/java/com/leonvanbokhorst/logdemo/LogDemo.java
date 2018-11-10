@@ -12,4 +12,9 @@ class LogDemo {
     logger.debug("Message {}: {}", messages, message);
     messages++;
   }
+
+  void logError(String message) {
+    logger.error("Message {}: {}", messages, message);
+    messages++;
+  }
 }

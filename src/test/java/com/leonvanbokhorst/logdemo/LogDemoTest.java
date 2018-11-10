@@ -34,4 +34,13 @@ public class LogDemoTest {
     // assert
     assertTrue(true);
   }
+
+  @Test
+  public void logError() {
+    // act
+    this.sut.logError("Bam!");
+
+    // assert
+    assertTrue(true);
+  }
 }
