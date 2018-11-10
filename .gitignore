@@ -1,0 +1,12 @@
+
+.idea/codeStyles/codeStyleConfig.xml
+.idea/compiler.xml
+.idea/dictionaries/leon.xml
+.idea/google-java-format.xml
+.idea/kotlinc.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/workspace.xml
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
